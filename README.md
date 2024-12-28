@@ -1,6 +1,15 @@
 # CAR-PRICE-PREDICTION-ANALYSIS
 By building a reliable pricing model, I aim to understand how different attributes contribute to a car’s value, which can help stakeholders set fair, competitive prices and make informed purchasing or lending decisions.
 
+## Jupyter notebook used in Data analysis and Model Building
+[Car-price-prediction.pynb](https://github.com/AbelEsther/CAR-PRICE-PREDICTION-ANALYSIS/blob/6a4284ec1dee85382e65eb0a54318fe19cc0c64c/car-prediction-analysis.ipynb)
+
+
+## Dataset
+[car_pricing.csv](https://github.com/AbelEsther/CAR-PRICE-PREDICTION-ANALYSIS/blob/6a4284ec1dee85382e65eb0a54318fe19cc0c64c/car_pricing.csv)
+
+
+
 ## **Problem Statement**
 The primary challenge in the car industry is accurately valuing vehicles amid fluctuating market demands, changing consumer preferences, and diverse product offerings. Car manufacturers, dealerships, and resellers need a reliable way to price vehicles competitively while accounting for features that consumers value most. Incorrect pricing, whether too high or too low, can lead to lost sales, reduced profitability, or diminished brand perception. By developing a model that predicts car prices based on key attributes, businesses can address this issue, ensuring that pricing aligns with market expectations and maximizes revenue potential.
 
