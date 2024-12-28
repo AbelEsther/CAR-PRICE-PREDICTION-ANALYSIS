@@ -2,7 +2,7 @@
 By building a reliable pricing model, I aim to understand how different attributes contribute to a car’s value, which can help stakeholders set fair, competitive prices and make informed purchasing or lending decisions.
 
 ## Notebook used in Data analysis and Model Building
-[Car-price-prediction.pynb](https://github.com/AbelEsther/CAR-PRICE-PREDICTION-ANALYSIS/blob/6a4284ec1dee85382e65eb0a54318fe19cc0c64c/car-prediction-analysis.ipynb)
+[Car-price-prediction.pynb](https://github.com/AbelEsther/CAR-PRICE-PREDICTION-ANALYSIS/blob/5160d37273f21a42b3cfe06f0d773fe8ec7d03b4/car_prediction_analysis.ipynb)
 
 
 ## Dataset
@@ -43,7 +43,7 @@ This data contains over 10,000 automobiles (each record represents an actual car
 
 I will use this dataset to perform a regression analysis, focusing on categorizing the MSRP (price) based on the available car features. This analysis will provide insights into the key factors that influence car pricing categories in the market.
 
-## 2.Conclusion
+## Conclusion
 ### **Satisfaction with Model Performance**
 I am moderately satisfied with the final model’s performance, as it achieves an R² of 0.597, meaning it explains approximately 59.7% of the variance in car prices (MSRP). The model incorporates a well-rounded set of predictors that influence pricing, capturing a meaningful level of accuracy while balancing complexity and interpretability. However, there is still room for improvement in both predictive accuracy and feature relevance, especially as some variance remains unexplained.
 
