@@ -1,7 +1,7 @@
 # CAR-PRICE-PREDICTION-ANALYSIS
 By building a reliable pricing model, I aim to understand how different attributes contribute to a car’s value, which can help stakeholders set fair, competitive prices and make informed purchasing or lending decisions.
 
-## Jupyter notebook used in Data analysis and Model Building
+## Notebook used in Data analysis and Model Building
 [Car-price-prediction.pynb](https://github.com/AbelEsther/CAR-PRICE-PREDICTION-ANALYSIS/blob/6a4284ec1dee85382e65eb0a54318fe19cc0c64c/car-prediction-analysis.ipynb)
 
 
