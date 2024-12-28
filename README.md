@@ -48,3 +48,4 @@ I am moderately satisfied with the final model’s performance, as it achieves a
 
 ### **Recommendations to Business Leadership**
 Engine performance (HP and cylinders), fuel efficiency (MPG), and popularity are strong indicators of car price. Investments in enhancing these attributes or positioning high-performance models could align well with pricing strategies.
+
